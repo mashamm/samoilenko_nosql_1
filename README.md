@@ -12,7 +12,6 @@
 ├── queries/
 │   └── part2_queries.js     # Ч.2 — чотири запити
 ├── part3_indexes.js         # Ч.3 — explain() до/після, індекси, covered query
-├── screenshots/             # скріншоти Atlas / термінала
 ├── requirements.txt
 ├── .env.example
 └── README.md
