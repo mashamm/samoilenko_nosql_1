@@ -174,8 +174,6 @@
 
 Файл: [`part3_indexes.js`](part3_indexes.js). Скрипт сам друкує ключові поля `explain("executionStats")`. Нижче мій вивід.
 
-> 📸 *Додайте скріншоти з Atlas (Collections → Explain Plan / Indexes) або термінала в `screenshots/`.*
-
 ### 3.1. `track_genre: "pop"` + `danceability ≥ 0.7`, сортування `popularity: -1`
 
 Індекс за правилом **ESR** (Equality → Sort → Range):
